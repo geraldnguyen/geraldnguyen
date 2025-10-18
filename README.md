@@ -1,7 +1,5 @@
 ## About me
 
-![](/geraldnguyen-profile-thumbnail.jpg)
-
 A software craftsman who writes clean code, automated tests, and practices continuous improvement
 
 A seasoned IT professional with 17 years of experience in various industries, business domains, and roles
