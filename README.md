@@ -2,13 +2,42 @@
 
 A software craftsman who writes clean code, automated tests, and practices continuous improvement
 
-A seasoned IT professional with 17 years of experience in various industries, business domains, and roles
+Software engineering leader with 19 years of experience leading application development, modernization, and production delivery across banking, payments, telecommunications, and engineering domains.
 
 An admirer of (Vulcan) logic, diversity, and multidisciplinary approaches
 
-Connect with me on [Linkedin](https://www.linkedin.com/in/nthehuy/?source=about_page------------------------------------- "https://www.linkedin.com/in/nthehuy/?source=about_page-------------------------------------")[](https://www.youtube.com/@geraldnguyensg?source=about_page------------------------------------- "https://www.youtube.com/@geraldnguyensg"), or [X](https://twitter.com/geraldnguyensg?source=about_page------------------------------------- "https://twitter.com/geraldnguyensg?source=about_page-------------------------------------")  (formerly Twitter)
+Connect with me on [Linkedin](https://www.linkedin.com/in/nthehuy/), [X](https://x.com/geraldnguyensg), [Medium](https://geraldnguyen.medium.com/), [Bluesky](https://bsky.app/profile/geraldnguyensg.bsky.social)
+
+If you are looking to hire me:
+- [As invidual contributor](Gerald_Nguyen_The_Huy-Resume-Engineer-202606.pdf)
+- [As engineering manager](Gerald_Nguyen_The_Huy-Resume-EngineeringManager-202606.pdf) 
 
 ## Personal Projects
+
+### [ExpertLinked.in](https://expertlinked.in)
+
+An ongoing experiment with AI-generated content, agentic workflow, podcast and advertising
+
+### [TellStory.net](https://tellstory.net/) 
+
+An ongoing experiment with AI-assisted content creation and management including text and images, content delivery, agentic workflow, video generation.
+
+### [TellJoke.net](https://telljoke.net/) 
+
+An ongoing experiment with AI-assisted content creation and management including text, images, short video, and content delivery.
+
+### [Front Matter Utilities](https://pypi.org/project/frontmatter-utils/) 
+
+A Python library and CLI tool for parsing and searching front matter in files. It supports read, search, validate, update and execute command. Perfect for validation and standarization in automated content pipeline as well as ad-hoc content management.
+
+### [Social Media Posters](https://pypi.org/project/social-media-posters/)
+
+A collection of GitHub Actions and a unified CLI tool for posting content to various social media platforms. Post to X (Twitter), Facebook, Instagram, Threads, LinkedIn, YouTube, and Bluesky from the command line or automate with GitHub Actions.
+
+## [Gut](https://github.com/geraldnguyen/gut)
+
+`gut` is a simple and witty command-line wrapper around `git` for those moments when you accidentally type "gut" instead of "git". Instead of getting a "command not found" error, gut will give you a friendly, humorous message and then execute your intended git command.
+
 
 ### [HTML to Markdown](https://chrome.google.com/webstore/detail/html-to-markdown/kgfecdionnddbhjfeanngjbpnnglnpho)
 
@@ -40,27 +69,8 @@ A maven library of a `/echo` API that echo HTTP request info back to the caller
 
 Happy debugging here: https://echook.azurewebsites.net/echo
 
-### [ExpertLinked.in](https://expertlinked.in)
-
-An experiment with AI-generated content using various LLM models
-
-### [TellStory.net](https://tellstory.net/) 
-
-Another experiment with AI-power content generation. In addition to generating textual content, I also use AI to generate prompts and illustration images for the content.
 
 ## My Writings
-
-### Under employment:
-
-[Locations and Places API - Getting started](https://developer.mastercard.com/places/tutorial/locations-and-places-api-getting-started/)
-
-It is easy to get started with Mastercard Locations and Places APIs
-
-[Merchant-of-interest Progressive Web App (PWA)](https://developer.mastercard.com/places/tutorial/locations-and-places-apis-merchant-of-interest-progressive-web-app/) 
-
-An example combination of Mastercard Places API in conjunction with Google Map API
-
-**Note**: These tutorials were written against an earlier version of Places API. If you are interested, visit https://developer.mastercard.com/places/documentation/ for the up-to-date documentation
 
 ### During my free time
 
@@ -80,6 +90,19 @@ A quality translation of the The Scrum Guide™ into Vietnamese
 
 Debunk a misconception and briefly explain what APIs are
 
+### Part of my employment:
+
+[Locations and Places API - Getting started](https://developer.mastercard.com/places/tutorial/locations-and-places-api-getting-started/)
+
+It is easy to get started with Mastercard Locations and Places APIs
+
+[Merchant-of-interest Progressive Web App (PWA)](https://developer.mastercard.com/places/tutorial/locations-and-places-apis-merchant-of-interest-progressive-web-app/) 
+
+An example combination of Mastercard Places API in conjunction with Google Map API
+
+**Note**: These tutorials were written against an earlier version of Places API. If you are interested in those API, visit https://developer.mastercard.com/places/documentation/ for the up-to-date documentation
+
+
 ### My Publications
 
 [https://medium.com/southeast-asia](https://medium.com/southeast-asia?source=about_page------------------------------------- "https://medium.com/southeast-asia")
@@ -89,8 +112,6 @@ The region has a rich history dating back thousands of years, with various cultu
 [https://medium.com/50ld](https://medium.com/50ld?source=about_page------------------------------------- "https://medium.com/50ld")
 
 Interview Preparation for developers by developers
-
-
 
 
 
