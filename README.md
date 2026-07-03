@@ -86,7 +86,7 @@ A quality translation of the Agile Manifesto into Vietnamese
 
 A quality translation of the The Scrum Guide™ into Vietnamese
 
-[What are APIs?]({{< ref "posts/2022/12/what-are-apis" >}}/)
+[What are APIs?](https://medium.com/illumination/what-are-apis-2259bb43ddb4)
 
 Debunk a misconception and briefly explain what APIs are
 
