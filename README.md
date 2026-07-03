@@ -18,6 +18,10 @@ If you are looking to hire me:
 
 An ongoing experiment with AI-generated content, agentic workflow, podcast and advertising
 
+### [SEAWeekly.com](https://seaweekly.com)
+
+A dedication for Southeast Asia coverage across business, markets, travel, sport, podcasts, and video. SEA Weekly tracks the momentum shaping Southeast Asia with a strict editorial focus on economy, finance, industry, travel, and sport.
+
 ### [TellStory.net](https://tellstory.net/) 
 
 An ongoing experiment with AI-assisted content creation and management including text and images, content delivery, agentic workflow, video generation.
