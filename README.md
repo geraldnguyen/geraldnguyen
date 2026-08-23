@@ -9,8 +9,8 @@ An admirer of (Vulcan) logic, diversity, and multidisciplinary approaches
 Connect with me on [Linkedin](https://www.linkedin.com/in/nthehuy/), [X](https://x.com/geraldnguyensg), [Medium](https://geraldnguyen.medium.com/), [Bluesky](https://bsky.app/profile/geraldnguyensg.bsky.social)
 
 If you are looking to hire me:
-- [As expert engineer](Gerald_Nguyen_The_Huy-Resume-Engineer-202606.pdf)
-- [As engineering manager](Gerald_Nguyen_The_Huy-Resume-EngineeringManager-202606.pdf) 
+- [As expert engineer](Gerald-Nguyen-The-Huy-Resume-Engineer-202608.pdf)
+- [As engineering leader](Gerald-Nguyen-The-Huy-Resume-Engineering-Leader-202608.pdf) 
 
 ## Personal Projects
 
